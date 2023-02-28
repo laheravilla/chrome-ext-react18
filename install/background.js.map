@@ -1,0 +1,1 @@
+{"version":3,"file":"background.js","mappings":";;;;;AAAA;AACA;AACA","sources":["webpack://chrome-ext-react18/./src/background/background.js"],"sourcesContent":["chrome.runtime.onInstalled.addListener((details) => {\r\n  console.log(\"From backgorund.js\");\r\n});\r\n"],"names":[],"sourceRoot":""}

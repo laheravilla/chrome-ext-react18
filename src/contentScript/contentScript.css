@@ -1,0 +1,10 @@
+.vdl-container {
+    position:absolute;
+    top:50%;
+    right:20px;
+    height:50px;
+    width:50px;
+    transform:translateY(-50%);
+    background-color:goldenrod;
+    border-radius:999px;
+}
